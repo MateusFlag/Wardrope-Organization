@@ -19,4 +19,4 @@ Buscamos criar um espaço onde funcionários e equipes possam criar projetos, es
 
 # Casos de Uso
 
-![Casos%20de%20Uso](Imagens/Casos%20de%20uso.jpg)
+![Casos de Uso](Imagens/Casos%20de%20Uso.jpg)
