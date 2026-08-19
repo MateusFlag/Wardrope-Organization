@@ -24,4 +24,4 @@ Buscamos criar um espaço onde funcionários e equipes possam criar projetos, es
 
 ## Casos de Uso
 
-![Casos de Uso](Imagens/Casos%20de%20Uso.jpg)
+<iframe src="Imagens/Requisitos%20Funcionais.pdf" width="100%" height="600px"></iframe>
