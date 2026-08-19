@@ -1,3 +1,4 @@
+![Logo do Projeto](Logo/Wardrope logo.jpg)
 # Projeto
 
 ## Oportunidade
