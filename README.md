@@ -19,7 +19,7 @@ Buscamos criar um espaço onde funcionários e equipes possam criar projetos, es
 
 ## Requisitos Funcionais
 
-![Requisitos Funcionais](Requisitos%20Funcionais.pdf)
+![Requisitos Funcionais](Imagens/Requisitos%20Funcionais.pdf)
 
 
 ## Casos de Uso
