@@ -1,7 +1,9 @@
 ![Logo do Projeto](Imagens/Wardrope%20logo.jpg)
 # Projeto
-Nome: Wardrope
-Orientador: Edgar
+Nome: Wardrope  
+
+Orientador: Edgar  
+
 Integrantes: Mateus Melo Fernandes, Pedro Reis, Andrei, Pedro Maia, Antonio, Cauã, Samuel.
 
 ## Oportunidade
@@ -17,4 +19,4 @@ Buscamos criar um espaço onde funcionários e equipes possam criar projetos, es
 
 # Casos de Uso
 
-![Casos de Uso](Imagens/Casos%20de%20uso.jpg)
+![Casos%20de%20Uso](Imagens/Casos%20de%20uso.jpg)
