@@ -17,6 +17,11 @@ Nossa aplicação busca fornecer uma visão macro dos projetos de uma empresa pa
 
 Buscamos criar um espaço onde funcionários e equipes possam criar projetos, estruturar documentos em hierarquias e manter todo o conhecimento organizado em um único lugar.
 
+## Requisitos Funcionais
+
+![Requisitos Funcionais](Requisitos%20Funcionais.pdf)
+
+
 ## Casos de Uso
 
 ![Casos de Uso](Imagens/Casos%20de%20Uso.jpg)
