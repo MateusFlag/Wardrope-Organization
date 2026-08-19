@@ -19,9 +19,9 @@ Buscamos criar um espaço onde funcionários e equipes possam criar projetos, es
 
 ## Requisitos Funcionais
 
-![Requisitos Funcionais](Imagens/Requisitos%20Funcionais.pdf)
+<iframe src="Imagens/Requisitos%20Funcionais.pdf" width="100%" height="600px"></iframe>
 
 
 ## Casos de Uso
 
-<iframe src="Imagens/Requisitos%20Funcionais.pdf" width="100%" height="600px"></iframe>
+![Casos de UsO](Imagens/Casos%20de%20Uso.jpg)
