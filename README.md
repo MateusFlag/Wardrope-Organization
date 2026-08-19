@@ -19,7 +19,10 @@ Buscamos criar um espaço onde funcionários e equipes possam criar projetos, es
 
 ## Requisitos Funcionais
 
-<iframe src="Imagens/Requisitos%20Funcionais.pdf" width="100%" height="600px"></iframe>
+<object data="Imagens/Requisitos%20Funcionais.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Seu navegador não suporta a exibição de PDFs. <a href="Imagens/Requisitos%20Funcionais.pdf">Clique aqui para baixar o PDF.</a></p>
+</object>
+
 
 
 ## Casos de Uso
