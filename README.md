@@ -1,5 +1,8 @@
 ![Logo do Projeto](Imagens/Wardrope%20logo.jpg)
 # Projeto
+Nome: Wardrope
+Orientador: Edgar
+Integrantes: Mateus Melo Fernandes, Pedro Reis, Andrei, Pedro Maia, Antonio, Cauã, Samuel.
 
 ## Oportunidade
 Vimos que se organizar no meio corporativo, realizar documentações manualmente acaba sendo desgastante pelos problemas de se localizar dificuldade em achar um repositório ou documento em meio a muitos arquivos e o gasto de tempo desnecessário de se organizar no meio das documentações e diretórios para poder criar ou exportar esses respectivos arquivos de documentação.
@@ -12,3 +15,6 @@ Nossa aplicação busca fornecer uma visão macro dos projetos de uma empresa pa
 
 Buscamos criar um espaço onde funcionários e equipes possam criar projetos, estruturar documentos em hierarquias e manter todo o conhecimento organizado em um único lugar.
 
+# Casos de Uso
+
+![Casos de Uso](Imagens/Casos%20de%20uso.jpg)
